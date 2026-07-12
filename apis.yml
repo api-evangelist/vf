@@ -26,6 +26,8 @@ description: >-
   stores globally and integrates with platforms such as Shopify, Amazon, Magento,
   WooCommerce, and BigCommerce via third-party integration services.
 common:
+  - type: DomainSecurity
+    url: security/vf-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/vf-corporation
   - url: https://www.vfc.com/
@@ -40,6 +42,8 @@ common:
     name: VF Corporation Supplier Resources
     type: Portal
     description: Resources and information for suppliers partnering with VF Corporation.
+  - url: https://www.vfc.com/investors/news-events-presentations/press-releases/rss
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
