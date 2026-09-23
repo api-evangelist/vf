@@ -1,7 +1,9 @@
 ---
 title: VF Corporation Releases Second Quarter Fiscal 2026 Financial Results
 url: https://www.vfc.com/investors/news-events-presentations/press-releases/detail/1859/vf-corporation-releases-second-quarter-fiscal-2026
-date: '2025-10-28'
+published: ''
+date_basis: harvested
+harvested: '2025-10-28'
 author: ''
 feed_url: https://www.vfc.com/investors/news-events-presentations/press-releases/rss
 ---

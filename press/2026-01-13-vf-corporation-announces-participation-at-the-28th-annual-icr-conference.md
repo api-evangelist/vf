@@ -1,7 +1,9 @@
 ---
 title: VF Corporation Announces Participation at the 28th Annual ICR Conference
 url: https://www.vfc.com/investors/news-events-presentations/press-releases/detail/1862/vf-corporation-announces-participation-at-the-28th-annual
-date: '2026-01-13'
+published: ''
+date_basis: harvested
+harvested: '2026-01-13'
 author: ''
 feed_url: https://www.vfc.com/investors/news-events-presentations/press-releases/rss
 ---

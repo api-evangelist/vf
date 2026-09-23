@@ -1,7 +1,9 @@
 ---
 title: VF Corporation Hosts Investor Day
 url: https://www.stocktitan.net/news/VFC/vf-corporation-hosts-investor-r7x024anoln8.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"VF" press release artificial intelligence'
 position: 2
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: VF Corporation to Sell Dickies to Bluestar Alliance
 url: https://www.vfc.com/investors/news-events-presentations/press-releases/detail/1855/vf-corporation-to-sell-dickies-to-bluestar-alliance
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"VF" press release artificial intelligence'
 position: 1
 source: serpapi-google

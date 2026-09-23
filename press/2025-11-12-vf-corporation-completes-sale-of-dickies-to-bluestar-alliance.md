@@ -1,7 +1,9 @@
 ---
 title: VF Corporation Completes Sale of Dickies® to Bluestar Alliance
 url: https://www.vfc.com/investors/news-events-presentations/press-releases/detail/1860/vf-corporation-completes-sale-of-dickies-to-bluestar
-date: '2025-11-12'
+published: ''
+date_basis: harvested
+harvested: '2025-11-12'
 author: ''
 feed_url: https://www.vfc.com/investors/news-events-presentations/press-releases/rss
 ---

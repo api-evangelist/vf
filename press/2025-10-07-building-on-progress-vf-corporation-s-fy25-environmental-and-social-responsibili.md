@@ -2,7 +2,9 @@
 title: 'Building on Progress: VF Corporation’s FY25 Environmental and Social Responsibility
   Report Shares VF Sustainability and Social Impact'
 url: https://www.vfc.com/investors/news-events-presentations/press-releases/detail/1857/building-on-progress-vf-corporations-fy25-environmental
-date: '2025-10-07'
+published: ''
+date_basis: harvested
+harvested: '2025-10-07'
 author: ''
 feed_url: https://www.vfc.com/investors/news-events-presentations/press-releases/rss
 ---

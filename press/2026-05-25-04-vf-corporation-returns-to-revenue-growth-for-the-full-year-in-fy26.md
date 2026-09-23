@@ -1,7 +1,9 @@
 ---
 title: vf corporation returns to revenue growth for the full year in fy'26
 url: https://www.sec.gov/Archives/edgar/data/0000103379/000010337926000028/q42026earningspressrelease.htm
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"VF" press release artificial intelligence'
 position: 4
 source: serpapi-google

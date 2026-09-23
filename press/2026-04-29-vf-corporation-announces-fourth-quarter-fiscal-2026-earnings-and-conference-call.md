@@ -2,7 +2,9 @@
 title: VF Corporation Announces Fourth Quarter Fiscal 2026 Earnings and Conference
   Call Date
 url: https://www.vfc.com/investors/news-events-presentations/press-releases/detail/1865/vf-corporation-announces-fourth-quarter-fiscal-2026
-date: '2026-04-29'
+published: ''
+date_basis: harvested
+harvested: '2026-04-29'
 author: ''
 feed_url: https://www.vfc.com/investors/news-events-presentations/press-releases/rss
 ---

@@ -2,7 +2,9 @@
 title: VF Corporation Announces Third Quarter Fiscal 2026 Earnings and Conference
   Call Date
 url: https://www.vfc.com/investors/news-events-presentations/press-releases/detail/1861/vf-corporation-announces-third-quarter-fiscal-2026-earnings
-date: '2026-01-07'
+published: ''
+date_basis: harvested
+harvested: '2026-01-07'
 author: ''
 feed_url: https://www.vfc.com/investors/news-events-presentations/press-releases/rss
 ---

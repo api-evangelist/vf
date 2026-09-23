@@ -2,7 +2,9 @@
 title: VF Corporation Returns to Revenue Growth for the Full Year in FY'26 With Expanded
   Margins and Reduced Debt
 url: https://www.vfc.com/investors/news-events-presentations/press-releases/detail/1866/vf-corporation-returns-to-revenue-growth-for-the-full-year
-date: '2026-05-20'
+published: ''
+date_basis: harvested
+harvested: '2026-05-20'
 author: ''
 feed_url: https://www.vfc.com/investors/news-events-presentations/press-releases/rss
 ---

@@ -1,7 +1,9 @@
 ---
 title: Cemtrex Receives Virtual Reality (VR) Application Order ...
 url: https://ir.cemtrex.com/news-events/press-releases/detail/54/cemtrex-receives-virtual-reality-vr-application-order
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"VF" press release artificial intelligence'
 position: 3
 source: serpapi-google
